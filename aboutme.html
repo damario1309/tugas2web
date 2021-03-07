@@ -24,9 +24,9 @@
 	</div>
 	<header>
 		<div class="container">
-			<h1><a href="index.html">MARZ WEBSITE</a></h1>
+			<h1><a href="index.php">MARZ WEBSITE</a></h1>
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 	 			<li><a href="project.html">My Project</a></li>
 	 			<li><a href="aboutme.html">About Me</a></li>
 	 			<li><a href="askme.html">Ask Me!</a></li>
