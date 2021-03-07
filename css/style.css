@@ -1,0 +1,213 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body{
+	background-color: #b83b5e;
+}
+.background{
+	background-image: url('../img/pattern.jpg');
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+.medsos{
+	padding: 8px 0;
+	background-color: #b83b5e;
+}
+.medsos ul li{
+	display: inline-block;
+	color: white;
+	margin-left: 25px;
+}
+.medsos li a:hover{
+	background-color: #112d4e;
+}
+.footer{
+	margin: 177px 0px 0px 0px;
+	padding: 9px;
+	background-color: #b83b5e;
+}
+.footer2{
+	margin: 4.1px 0px 0px 0px;
+	padding: 9px;
+	background-color: #b83b5e;
+}
+.footer3{
+	margin: 33px 0px 0px 0px;
+	padding: 9px;
+	background-color: #b83b5e;
+}
+.footertext h5{
+	color: white;
+	font-family: sans-serif;
+}
+.footertext2 h5{
+	color: white;
+	font-family: sans-serif;
+}
+.footertext3 h5{
+	color: white;
+	font-family: sans-serif;
+}
+.container{
+	width: 100%;
+	margin:0 auto;
+
+}
+.container:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+header{
+	background-color :#112d4e;
+	border: 1px solid;
+}
+header h1{
+	float: left;
+	padding: 6px 0;
+	margin-left: 30px;
+	color: #b83b5e;
+}
+header ul {
+	float: right;
+	color: white;
+	margin-right: 20px;
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a{
+	padding: 15px 15px;
+	display: inline-block;
+}
+header ul li a:hover{
+	background-color: #b83b5e;
+}
+.banner{
+	height: 71.4vh;
+	background-image: url('../img/codingan.jpg');
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.banner h5{
+	color: white;
+	margin-top: 671px;
+}
+section{
+	padding: 49px 0;
+}
+section h3{
+	color: white;
+}
+.table{
+	margin: 15px 265px;
+	color: white;
+	background-color: #b83b5e;
+	padding:0px;
+}
+td, th{
+	padding: 5px;
+	border:1px solid black;
+	text-align: center;
+}
+td{
+	text-align: left;
+}
+section h2{
+	text-align: center;
+	padding: 52px 0;
+	margin-left: 39px;
+	color: white;
+	font-family: sans-serif;
+}
+.aboutme h2{
+	margin-bottom : 15px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+section .askme{
+	color: white;
+	padding: 15px;
+	margin-left: 150px;
+}
+.askme h2{
+	margin-right: 182px;
+	padding: 36px;
+}
+.form{
+	padding: 1px;
+	margin-right: 1px;
+	margin-top: 20px;
+	margin-bottom: 1px;
+}
+input[type=text], input[type=email]{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 8px;
+	width: 40%;
+	height: 10px;
+	font-family: inherit;
+	font-size: 17px;
+}
+button[type=submit]{
+	font-size: 14px;
+	border-radius: 5px;
+	width: 80px;
+	padding: 8px;
+	margin-top: 0px;
+	margin-left: 625px;
+}
+.form{
+	font-size: 22px;
+}
+textarea{
+	font-size: 17px;
+	text-align: left;
+	border-radius: 13px;
+	margin-left: 0;
+	width: 50%;
+	height: 100px;
+}
+article{
+	text-align: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	width: 100%;
+}
+.about img{
+	margin-left: 60px;
+}
+article{
+	text-align: left;
+	top: 120px;
+}
+p{
+	margin-left: 430px;
+	margin-top: 73px;
+	position: absolute;
+	font-size: 18px;
+	color: white;
+}
+.about h3{
+	position: absolute;
+	margin-left: 430px;
+	margin-top: 169px;
+}
+.skill p{
+	font-size: 17px;
+	margin-top: 195px;
+	color: white;
+}
+.about h1{
+	position: absolute;
+	margin-left: 430px;
+	margin-top: 35px;
+	color: white;
+}
